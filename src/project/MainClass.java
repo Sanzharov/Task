@@ -6,8 +6,8 @@ import project.tasks.task2.TextTask;
 public class MainClass {
     public static void main(String[] args) {
 
-        String pathFirstTask = "..\\taskproject\\src\\project\\resources\\input1.txt",
-                pathSecondTask = "..\\taskproject\\src\\project\\resources\\input2.txt";
+        String pathFirstTask = "..\\Task\\src\\project\\resources\\input1.txt",
+                pathSecondTask = "..\\Task\\src\\project\\resources\\input2.txt";
 
 
         System.out.println("\nFirst task:");
